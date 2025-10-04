@@ -28,7 +28,7 @@ a { color: #0066cc; text-decoration: none; }
 
 <h2 id="contact">お問い合わせフォーム</h2>
 <p>お問い合わせは以下のフォームからお願いします。</p>
-<p><a href="https://forms.gle/xxxxxxxx">お問い合わせフォーム</a></p>
+<p><a href="＜(https://forms.gle/CdhvmQvmQXmvByV2A)">お問い合わせフォーム</a></p>
 
 </body>
 </html>
