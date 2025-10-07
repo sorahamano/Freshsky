@@ -18,7 +18,7 @@ a { color: #0066cc; text-decoration: none; }
 
 <h2>特定商取引法に基づく表記</h2>
 <ul>
-  <li><strong>運営者：</strong>濵野爽空(フレッシュスカイ)</li>
+  <li><strong>運営者：</strong>濵野爽空</li>
   <li><strong>住所：</strong>〒1040061 東京都中央区銀座1丁目12番4号N&E BLD.6F</li>
   <li><strong>連絡先：</strong> メール:azureajua@gmail.com
      電話：070-2296-9788</li>
