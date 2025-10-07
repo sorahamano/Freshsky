@@ -20,7 +20,8 @@ a { color: #0066cc; text-decoration: none; }
 <ul>
   <li><strong>運営者：</strong>濵野爽空</li>
   <li><strong>住所：</strong>〒1040061 東京都中央区銀座1丁目12番4号N&E BLD.6F</li>
-  <li><strong>連絡先：</strong>連絡先: メール:azureajua@gmail.com 電話：070-2296-9788</li>
+  <li><strong>連絡先：</strong> 連絡先: メール:azureajua@gmail.com
+     電話：070-2296-9788</li>
   <li><strong>販売商品・サービス：</strong>オンライン日本語レッスン（個別コーチング）</li>
   <li><strong>支払い方法：</strong>クレジットカード（Stripe経由）</li>
   <li><strong>返品・キャンセル：</strong>レッスン開始前までキャンセル可能。開始後の返金は不可。</li>
